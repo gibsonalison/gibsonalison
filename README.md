@@ -1,6 +1,6 @@
 ## Hi, I'm Alison 👋
 
-- 🔭 I’m currently working on [Reclaim](https://go.reclaim.ai/o9jpmgpd2bbi-1jeudq)
+- 🔭 I’m currently working on **[Reclaim](https://go.reclaim.ai/o9jpmgpd2bbi-1jeudq)**
 - 💬 Ask me about Laravel
 
 <!--
